@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.9465, 30.9025] },
+      "properties": {
+        "name": "Air Force Station Monkey Point Radar Buffer",
+        "zone_type": "restricted",
+        "state": "Himachal Pradesh",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "IAF High-Altitude Defense Radar Installation. Civilian crossing prohibited within 250m perimeter."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.9510, 30.9065] },
+      "properties": {
+        "name": "Chail Wildlife Sanctuary - Leopard Breeding Core",
+        "zone_type": "restricted",
+        "state": "Himachal Pradesh",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "Critical wildlife conservation core. High leopard and Himalayan black bear activity."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [78.7747, 29.5300] },
+      "properties": {
+        "name": "Jim Corbett National Park - Dhikala Core Incursion Zone",
+        "zone_type": "restricted",
+        "state": "Uttarakhand",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "Strict Tiger Reserve Core Sanctuary. Foot safari prohibited under Wildlife Protection Act."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [79.9700, 30.3750] },
+      "properties": {
+        "name": "Nanda Devi Biosphere - Rishi Ganga Glacial Fracture Zone",
+        "zone_type": "restricted",
+        "state": "Uttarakhand",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "Active glacial fracture and unstable moraine slope. Danger of sudden outburst flood."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [79.5850, 30.7280] },
+      "properties": {
+        "name": "Valley of Flowers - Core Alpine Preservation Sector",
+        "zone_type": "restricted",
+        "state": "Uttarakhand",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "Protected UNESCO Biosphere. Off-trail camping and specimen collection strictly penalized."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [94.1230, 25.5680] },
+      "properties": {
+        "name": "Dzukou Valley Southern Bog & Sinkhole Sector",
+        "zone_type": "restricted",
+        "state": "Nagaland",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "Perilous subterranean peat bog and flash sinkhole zone. Entry restricted without licensed guide."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [88.1470, 27.7020] },
+      "properties": {
+        "name": "Khangchendzonga High Glacier Crevasse Field",
+        "zone_type": "restricted",
+        "state": "Sikkim",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "Deep transverse glacier crevasses. Sub-zero avalanche zone; special mountain permit mandatory."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [91.7180, 25.2450] },
+      "properties": {
+        "name": "Cherrapunji / Mawsmai Cave Subterranean Flood Chasm",
+        "zone_type": "restricted",
+        "state": "Meghalaya",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "Rapidly flooding karst caverns. Complete closure during precipitation episodes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.4500, 11.1300] },
+      "properties": {
+        "name": "Silent Valley National Park Core Kunthipuzha Sector",
+        "zone_type": "restricted",
+        "state": "Kerala",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "Preserved evergreen rainforest core. Lion-tailed macaque habitat with restricted access."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.6330, 11.6660] },
+      "properties": {
+        "name": "Bandipur Tiger Reserve Elephant Migration Corridor",
+        "zone_type": "restricted",
+        "state": "Karnataka",
+        "radius_m": 250,
+        "severity": "critical",
+        "description": "Night Elephant migration artery across NH-766. Strict night-curfew buffer."
+      }
+    }
+  ]
+}

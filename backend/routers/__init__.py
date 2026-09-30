@@ -1,0 +1,9 @@
+from routers.auth import router as auth_router
+from routers.identity import router as identity_router
+from routers.trips import router as trips_router
+from routers.incidents import router as incidents_router
+from routers.danger_zones import router as danger_zones_router
+from routers.rangers import router as rangers_router
+from routers.weather import router as weather_router
+from routers.advisories import router as advisories_router
+from routers.coverage import router as coverage_router
